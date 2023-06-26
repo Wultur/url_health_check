@@ -1,0 +1,1 @@
+0 7 * * * /root/scripts/health_check.py >> /root/scripts/health_check.log 2>&1
